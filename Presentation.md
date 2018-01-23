@@ -1,6 +1,3 @@
-# projet moteur de jeux
-  Notre projet consiste à développer un moteur de jeux en 3D avec l'API OpenGL, et un jeu l'accompagnant conçu avec cet outil.
-  
 # Projet Moteur de Jeux
 
 Notre projet consiste à développer un moteur de jeux en 3D avec l'API OpenGL, et un jeu l'accompagnant conçu avec cet outil.
@@ -37,8 +34,8 @@ Le projet n'ayant pas encore debuté, les étapes de sa construction sont encore
 ### Documentation et Information 
 Les principal ressources trouvées (si ce n'est la totalité) éléctroniques, La Bibliothèque Universitaire nous a fournit deux ouvrages éléctronique concernant la programmation avec OpenGL :
 
--OpenGL Build high performance graphics
--OpenGL Came Development By Example
+- OpenGL Build high performance graphics
+- OpenGL Came Development By Example
 
 Le reste s'apprendra surement à l'aide de tutoriels et l'articles disponibles sur Internet. En s'informant, nous en apprendrions davantages sur les aspects techniques de notre projet.
 
