@@ -39,6 +39,8 @@ Cette démarche a déjà été partiellement entreprise. Le résumé que l'on a 
 - Réalisation de la génération procédurale du terrain
 - Gestion des entrées utilisateurs et de la caméra 
 - Écriture de scripts de shaders pour le rendu graphique
+- Conception du moteur physique et de la détection des collisions
+- Ajouts des personnages et d'éléments de gameplay
 - 
 
 Les principales ressources trouvées (si ce n'est la totalité) sont éléctroniques. La Bibliothèque Universitaire nous a fournit deux ouvrages éléctroniques concernant la programmation avec OpenGL :
