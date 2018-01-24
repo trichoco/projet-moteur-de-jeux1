@@ -17,7 +17,7 @@ Le concept résiderait davantage dans la modélisation 3D du jeu que dans l'édi
      Notre modeste objectif est de créer un outil adapté au concept de jeu que l'on souhaite réaliser.
 ### Langages et API utilisées
 La bibliothèque OpenGL est associée au langage C++.
-     Bien que la totalité du groupe, au cours de sa formation dans l'enseignement secondaire (ou autrement pour les plus intrépides), ait pu programmer avec des langages apparentés au C++ (C, C#, Java, etc), on peut affirmer qu'il est une terre que l'on ne peut qualifier de conquise.
+     Bien que la totalité du groupe, au cours de sa formation dans l'enseignement secondaire (ou autrement), ait pu programmer avec des langages apparentés au C++ (C, C#, Java, etc), on peut affirmer que ce n'est pas notre langage de prédilection.
      Réaliser un tel projet nous permettrait de gagner en polyvalence en développant dans un langage que nous ne maitrisons pas.
 ### Modélisation 3D et mathématiques accociées
 Le concept de notre jeu vidéo est orienté autour d'un environnement 3D qui se génère aléatoirement et sur une surface gigantesque (autrement appelé génération procédurale du terrain).
@@ -57,3 +57,6 @@ Le processus de conception, tel qu'on se le représente maintenant est le suivan
 - Ajouts des personnages et d'éléments de gameplay
 - Embellisement des graphismes et optimisation des performances
 - Game design
+
+
+ADILI Robin, HILLIARD Malo, LEBOULANGER Hugues, MAHE Etienne et TOMAS Pablo
