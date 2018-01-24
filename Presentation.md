@@ -21,8 +21,7 @@ La bibliothèque OpenGl est associé au langage C++.
      au C++ (C, Csharp, Java, etc), on peut affirmer qu'il est une terre que l'on ne peut qualifier de conquise.
      Réaliser un tel projet nous permettrait de gagner en polyvalence en développant dans un langage que nous ne maitrisons pas.
 ### Modélisation 3D et mathématiques accociées
-Le concept de notre jeu vidéo est orienté autour d'un environnement 3D qui se génere aléatoirement et sur une surface gigantesque
-     (autrement appelé génération procédurale du terrain).
+Le concept de notre jeu vidéo est orienté autour d'un environnement 3D qui se génère aléatoirement et sur une surface gigantesque (autrement appelé génération procédurale du terrain).
      Des jeux tels que YLANDS, Equilinox ou No Man's Sky sont totalement orientés sur ce principe.
      Mais la modélisation qu'elle soit 2D ou 3D est un domaine qui ne nous est pas familier en pratique.
      De ce que l'on peut trouver en survolant sa definition c'est qu'il est lié à de nombreuses notions d'arithmétiques.
@@ -37,8 +36,9 @@ Cette démarche a déjà été partiellement entreprise. Le résumé que l'on a 
 
 - Mise en place de l'environnement de programmation et des fonctions de bases permettant le rendu de primitives
 - Définition de functions permettant le rendu de modèles 3D d'après des primitives.
-- 
-- Écriture de scripts de shaders 
+- Réalisation de la génération procédurale du terrain
+- Gestion des entrées utilisateurs et de la caméra 
+- Écriture de scripts de shaders pour le rendu graphique
 - 
 
 Les principales ressources trouvées (si ce n'est la totalité) sont éléctroniques. La Bibliothèque Universitaire nous a fournit deux ouvrages éléctroniques concernant la programmation avec OpenGL :
