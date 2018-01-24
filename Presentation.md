@@ -29,11 +29,19 @@ Le concept de notre jeu vidéo est orienté autour d'un environnement 3D qui se 
      On peut donc supposer que nous approfondirons des concepts que nous avons déjà aborder (ou non) dans un domaine qui nous est étranger.
 
 ### Travail de Groupe 
-Proqrammer plusieurs est un exercice que la plupart d'entre nous ont déjà vécu. Mais pas tous. C'est un moyen d'apprendre ou de perfectionner) sa coordination et sa façon de code, pour rendre l'expérience de chacun la plus profitable possible. Ajoutons à cela que l'aspect communication sera renforcé par l'usage de GiHub et Discord qui permettront à chacun de faire évoluer le projet quand il le souhaite et de le communiquer ensuite aux autres. 
+Programmer à plusieurs est un exercice que la plupart d'entre nous ont déjà vécu. Mais pas tous. C'est un moyen d'apprendre (ou de perfectionner) sa coordination et sa façon de coder pour rendre l'expérience de chacun la plus profitable possible. Ajoutons à cela que l'aspect communication sera renforcé par l'usage de GiHub et Discord qui permettront à chacun de faire évoluer le projet quand il le souhaite et de le communiquer ensuite aux autres. 
 ## Démarches 
-Le projet n'ayant pas encore debuté, les étapes de sa construction sont encore floues : aucun de nous cinq n'a encore eu l'occasion de réaliser quelque chose de semblable. La première chose à faire est donc la suivante : se documenter. 
+Le projet n'ayant pas encore debuté, les étapes avancées de sa construction sont encore floues : aucun de nous cinq n'a encore eu l'occasion de réaliser quelque chose de semblable. La première chose à faire est donc la suivante : se documenter. 
 ### Documentation et Information 
-Les principal ressources trouvées (si ce n'est la totalité) éléctroniques, La Bibliothèque Universitaire nous a fournit deux ouvrages éléctronique concernant la programmation avec OpenGL :
+Cette démarche a déjà été partiellement entreprise. Le résumé que l'on a identifié à ce jour est le suivant : 
+
+- Mise en place de l'environnement de programmation et des fonctions de bases permettant le rendu de primitives
+- Définition de functions permettant le rendu de modèles 3D d'après des primitives.
+- 
+- Écriture de scripts de shaders 
+- 
+
+Les principales ressources trouvées (si ce n'est la totalité) sont éléctroniques. La Bibliothèque Universitaire nous a fournit deux ouvrages éléctroniques concernant la programmation avec OpenGL :
 
 - OpenGL Build high performance graphics
 - OpenGL Came Development By Example
