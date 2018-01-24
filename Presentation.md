@@ -16,16 +16,16 @@ Le concept résiderait davantage dans la modélisation 3D du jeu que dans l'édi
      Bien entendu, nous n'avons ni l'ambition ni la prétention de concurrencer de tels logiciels.
      Notre modeste objectif est de créer un outil adapté au concept de jeu que l'on souhaite réaliser.
 ### Langages et API utilisées
-La bibliothèque OpenGl est associé au langage C++.
+La bibliothèque OpenGL est associé au langage C++.
      Bien que la totalité du groupe, au cours de sa formation dans l'enseignement secondaire (ou autrement pour les plus intrépides), ait pu programmer avec des langages apparentés
-     au C++ (C, Csharp, Java, etc), on peut affirmer qu'il est une terre que l'on ne peut qualifier de conquise.
+     au C++ (C, C#, Java, etc), on peut affirmer qu'il est une terre que l'on ne peut qualifier de conquise.
      Réaliser un tel projet nous permettrait de gagner en polyvalence en développant dans un langage que nous ne maitrisons pas.
 ### Modélisation 3D et mathématiques accociées
 Le concept de notre jeu vidéo est orienté autour d'un environnement 3D qui se génère aléatoirement et sur une surface gigantesque (autrement appelé génération procédurale du terrain).
      Des jeux tels que YLANDS, Equilinox ou No Man's Sky sont totalement orientés sur ce principe.
      Mais la modélisation qu'elle soit 2D ou 3D est un domaine qui ne nous est pas familier en pratique.
      De ce que l'on peut trouver en survolant sa definition c'est qu'il est lié à de nombreuses notions d'arithmétiques.
-     On peut donc supposer que nous approfondirons des concepts que nous avons déjà aborder (ou non) dans un domaine qui nous est étranger.
+     On peut donc supposer que nous approfondirons des concepts que nous avons déjà abordé (ou non) dans un domaine qui nous est étranger.
 
 ### Travail de Groupe 
 Programmer à plusieurs est un exercice que la plupart d'entre nous ont déjà vécu. Mais pas tous. C'est un moyen d'apprendre (ou de perfectionner) sa coordination et sa façon de coder pour rendre l'expérience de chacun la plus profitable possible. Ajoutons à cela que l'aspect communication sera renforcé par l'usage de GiHub et Discord qui permettront à chacun de faire évoluer le projet quand il le souhaite et de le communiquer ensuite aux autres. 
@@ -46,10 +46,10 @@ La seconde étape de ce projet consisterait a concevoir le projet sous la forme 
 ### Idée abstraite du processus de développement
 Le processus de conception, tel qu'on se le représente maintenant est le suivant:
 - Mise en place de l'environnement de programmation et des fonctions de bases permettant le rendu de primitives
-- Définition de functions permettant le rendu de modèles 3D d'après des primitives.
+- Définition de fonctions permettant le rendu de modèles 3D d'après des primitives.
 - Réalisation de la génération procédurale du terrain
 - Gestion des entrées utilisateurs et de la caméra 
-- Écriture de scripts de shaders pour le rendu graphique
+- Édition de scripts de shaders pour le rendu graphique
 - Conception du moteur physique et de la détection des collisions
 - Ajouts des personnages et d'éléments de gameplay
 - Embellisement des graphismes et optimisation des performances
