@@ -32,17 +32,7 @@ Programmer à plusieurs est un exercice que la plupart d'entre nous ont déjà v
 ## Démarches 
 Le projet n'ayant pas encore debuté, les étapes avancées de sa construction sont encore floues : aucun de nous cinq n'a encore eu l'occasion de réaliser quelque chose de semblable. La première chose à faire est donc la suivante : se documenter. 
 ### Documentation et Information 
-Cette démarche a déjà été partiellement entreprise. Le résumé que l'on a identifié à ce jour est le suivant : 
-
-- Mise en place de l'environnement de programmation et des fonctions de bases permettant le rendu de primitives
-- Définition de functions permettant le rendu de modèles 3D d'après des primitives.
-- Réalisation de la génération procédurale du terrain
-- Gestion des entrées utilisateurs et de la caméra 
-- Écriture de scripts de shaders pour le rendu graphique
-- Conception du moteur physique et de la détection des collisions
-- Ajouts des personnages et d'éléments de gameplay
-- 
-
+Cette démarche a déjà été partiellement entreprise. 
 Les principales ressources trouvées (si ce n'est la totalité) sont éléctroniques. La Bibliothèque Universitaire nous a fournit deux ouvrages éléctroniques concernant la programmation avec OpenGL :
 
 - OpenGL Build high performance graphics
@@ -52,3 +42,14 @@ Le reste s'apprendra surement à l'aide de tutoriels et l'articles disponibles s
 
 ### Définition concrète en UML
 La seconde étape de ce projet consisterait a concevoir le projet sous la forme de diagramme de classes, d'objets, de séquences ou de cas d'utilisation pour mieux en cerner les enjeux. Le but étant de définir, avec le plus de précisions possibles l'étendue de nos attentes vis à vis de ce projet. Etant encore vagues, les démarches suivantes s'eclairciraient lorsque nous aborderons cette étape munis d'une documentation et de connaissances suffisantes. 
+
+### Idée abstraite du processus de développement
+Le processus de conception, tel qu'on se le représente maintenant est le suivant:
+- Mise en place de l'environnement de programmation et des fonctions de bases permettant le rendu de primitives
+- Définition de functions permettant le rendu de modèles 3D d'après des primitives.
+- Réalisation de la génération procédurale du terrain
+- Gestion des entrées utilisateurs et de la caméra 
+- Écriture de scripts de shaders pour le rendu graphique
+- Conception du moteur physique et de la détection des collisions
+- Ajouts des personnages et d'éléments de gameplay
+- Embellisement des graphismes et optimisation des performances
