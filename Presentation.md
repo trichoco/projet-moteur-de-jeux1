@@ -9,6 +9,11 @@ Le concept résiderait davantage dans la modélisation 3D du jeu que dans l'édi
   la manière de parvenir à notre objectif est encore ponctuée de quelques zones d'ombre.
   ### Description du moteur de jeux
   Bien que la notion de moteur de jeux ne nous soit pas inconnue elle reste une "boite noire" tant au niveau de son utilisation que de sa réalisation.
+  
+  même si la notion de moteur de jeux est une sorte de "boîte noire" dans sa globalité, elle n'en reste pas moins appréhensiblement réalisable.
+  
+  
+  
      L'un des objectifs du projet serait d'ouvrir cette "boite noire" pour en explorer les mécanismes.
      Le second serait de pallier le principal défaut que l'on peut entendre sur l'utilisation des moteurs de jeux lors du développement de jeux vidéos :
      ils ne seraient pas spécifiques (et donc pas optimisés pour développer un jeu vidéo).
