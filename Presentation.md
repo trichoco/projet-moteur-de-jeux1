@@ -41,7 +41,7 @@ Les principales ressources trouvées (si ce n'est la totalité) sont éléctroni
 5) Madsen, R. and Madsen, S. (2016). *OpenGL game development by example.* Packt Publishing.
 6) Horton, J. (2016). *Beginning C++ Game Programming*. Packt Publishing.
 
-Le reste s'apprendra surement à l'aide de tutoriels et l'articles disponibles sur Internet. En s'informant, nous en apprendrions davantages sur les aspects techniques de notre projet.
+Le reste s'apprendra surement à l'aide de tutoriels et l'articles disponibles sur Internet. En s'informant, nous en apprendrons davantage sur les aspects techniques de notre projet.
 
 ### Définition concrète en UML
 La seconde étape consisterait a concevoir le projet sous la forme de diagramme de classes, d'objets, de séquences ou de cas d'utilisation pour mieux en cerner les enjeux. Le but étant de définir, avec le plus de précisions possibles l'étendue de nos attentes vis à vis de ce projet. Etant encore vagues, les démarches suivantes s'eclairciraient lorsque nous aborderons cette étape munis d'une documentation et de connaissances suffisantes. 
